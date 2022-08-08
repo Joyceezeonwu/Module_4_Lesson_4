@@ -1,5 +1,4 @@
 import sqlite3
-from tkinter.tix import Select
 
 #check that it has been imported successfully
 # print("Module imported successfully!")
